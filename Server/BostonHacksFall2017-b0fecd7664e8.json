@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bostonhacksfall2017",
+  "private_key_id": "b0fecd7664e8a20d294c2a8ac8da4bf7046571ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYbBpajccPDIH8\nFwKhAinoGjk59/T2HkvgUgecwP/+i5iL5AsmVXc95FhkWbTIqu8fP8gE0+053ioh\n85f9mSgZF+Z9zcjTKPOenpeGCrcD5KM+gqw3v5LBPfYLS6SvImvz3R8oiCaLtM/J\n+qXoTR+gv2zLZ6lnTmvLDV90hnXlgDSfTIVLOppLp+1fnduGyp7C6RMqOO/SBFco\n0clv61nJnNUMa1gBAGu36jSUCQ1kwZNgbrLMJXRxtoCpng8JTOcmUh17x67pYPzV\nikjFnwBDJ4tr8raj+fyC5LO8TTDIUZCns9oxYaQeXW6kHw2YyzlDZNyM15KA+e2j\nyzcDIfPtAgMBAAECgf9K5bDLaOPiY6iYXoLNcrtjVLwj6/sdevDr56hNCyiAh2FJ\nmqgQZUaDjHB4YnrGfYYGmbziBzi2cqxGpfRPHocplbRBBiEqwdayRRfV19NBf495\nAF50u9GmV9E2I7Ry56FcEwvHuBme3isK8jNHpVDAk8foO0bxQqZIQ8AgjVvR/e8m\n1rLxOfNE0SnVfLBT2np7Tof7vlHoiv1D8GZH/CR9gYYkUhe82ch6YIsrdwcrLtr+\nGRABuzBFnDDR6v2wjw2d99t4gLER3F8tce2GtzboACvh6R6HrvJvmtySoYU15Ebl\nmpLoaZris6lHUjugHnYeh1DFm/b9HdoFR7ldCscCgYEA/TW/WD4k6A0aFway02av\nQJCaRDRpu5jrcyYWcq8tS+fU5mf4aUlgynrN1JmWuDiPISNFiEm5maOfYWz6ItSo\n6QNhhn8Rvsk51Y6ehMl94TEEuBl+8qTvwMQng7gnSNwojcVsUEQGgtli+wpDX1n8\nxDZLpVE4ubjyxyvQCkqPZ8MCgYEA2s6Vy17lTBeZLbK/R2fPj900jxoqywECe5Pl\nyu/KYhgvOggJZ8WdkxRU7wNL/Z5X8M1/awPyNF831zM+tzHh5dLvFNviq2SGVVSF\no5hM8EeFdvznnh9B9Tm9FaJoGK1lCjyuejUVZk7Ba3h4/XL4lhL5sCNqFQqHBtZn\nprLrKo8CgYEA70caMZ5QLAUtkXLgDEut8vpy/V72R7PjU6Y7cla+HEvQ8YZwxbX0\nxIK1/WDCgAXao7r8GyVoQZrQozVjTwTdNYzfXUS5FSx8/aVPgTYTQXmb9wkI4O0i\nL2xt1thwLzb1D7vvdg5ChOY+1fJF5lZYOWcBpxCQ5Viz+6kYaJE64RcCgYEAyOiH\ngoVP5d6FOAC4wcgAPgjPCdbtFBmJPg8/IGetXQT32EEo4bACT9qLYiuUyvtppCIM\nrSaibpQ/ocnb/DpBQdW80VpVdyqGbjN9wglGHBqP4gG2auoolhK+G+9TxdTwwcWW\nL4AudhI6Z4PnFFFND/+8ZI8gCNHxycV0xwviAuECgYEA0NaZwoPl8WZg/8bii2Ag\na0Iv3hnAX2N51BfNWOldUuseaq9SvLVygALLKRon/rLS+kvqjaYcvOur7M1j3Hvh\ny3viYO1y8qcKJtUaoecl9RLqK6UCOB3BlvW37SwFplf/bKonOOK6QlcTzGso9aae\nQc4+ht/Ggo9ywOHyST+Gb8U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-admin@bostonhacksfall2017.iam.gserviceaccount.com",
+  "client_id": "106956755735230218600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-admin%40bostonhacksfall2017.iam.gserviceaccount.com"
+}

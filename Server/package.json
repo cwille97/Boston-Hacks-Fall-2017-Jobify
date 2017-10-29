@@ -1,0 +1,27 @@
+{
+  "name": "boston-hacks-fall-2017-project",
+  "version": "1.0.0",
+  "description": "Our project for Boston Hacks Fall 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drewpel/boston-hacks-fall-2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drewpel/boston-hacks-fall-2017/issues"
+  },
+  "homepage": "https://github.com/Drewpel/boston-hacks-fall-2017#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "firebase-admin": "^5.4.3",
+    "mongoose": "^4.12.4",
+    "socket.io": "^2.0.4"
+  }
+}
